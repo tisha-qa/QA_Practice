@@ -1,2 +1,3 @@
 My first Git pratice
 Learning Manual Testing
+Learning Git for QA Testing
